@@ -1,0 +1,3 @@
+print(f"number of samples: {samples}")
+print(f"number of features: {n_features}")
+print(f"number of classes: {n_classes[0]}")
