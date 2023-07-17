@@ -7,7 +7,8 @@ Welcome to CVAI: An introductory course to artificial intelligence for Computer 
 
 ## Contents: 
 
-Topic              | Subtopics      | Colab links 
--------------------|----------------|---------------
-Introduction to contemporaneous AI      | what is and isn't AI \n another thingy | bla bla
-Row 2, Col 1       | Row 2, Col 2  | another bla bla 
+Topic              | Colab links    |
+-------------------|----------------|
+Introduction to contemporaneous AI      | colab link 1
+The problem of detection and classification       | Cl2
+Principles of visual recognition | cl3
