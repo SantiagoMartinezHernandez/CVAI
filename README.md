@@ -7,8 +7,12 @@ Welcome to CVAI: An introductory course to artificial intelligence for Computer 
 
 ## Contents: 
 
-Topic              | Colab links    |
--------------------|----------------|
-Introduction to contemporaneous AI      | colab link 1
-The problem of detection and classification       | Cl2
-Principles of visual recognition | cl3
+Topic              | Colab links   |  Slides links  | 
+-------------------|----------------|---------------|
+Introduction to contemporaneous AI      | colab link 1 | Slides 1
+The problem of detection and classification       | Cl2 | Slides 2
+Principles of visual recognition | cl3 | Slides 3
+The problem of segmentation | cl4 | slides 4
+Advanced neural networks | cl5 | slides 5
+Work with the minimum: Transfer learning and Tiny ML | Cl6 | slides 6
+Further steps | No colab | Slides 7
