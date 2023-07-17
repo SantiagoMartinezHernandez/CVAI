@@ -9,5 +9,5 @@ Welcome to CVAI: An introductory course to artificial intelligence for Computer 
 
 Topic              | Subtopics      | Colab links 
 -------------------|----------------|---------------
-Introduction to contemporaneous AI      | * what is and isn't AI * another thingy | bla bla
+Introduction to contemporaneous AI      | what is and isn't AI \n another thingy | bla bla
 Row 2, Col 1       | Row 2, Col 2  | another bla bla 
