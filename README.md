@@ -3,7 +3,7 @@ Computer Vision and Artificial Intelligence fundamentals course by Andrés Santi
 
 ## Introduction
 
-Welcome to CVAI: An introductory course to artificial intelligence for Computer Vision. This repository is a collection of the materials used for the teaching of this course con The University of Andes with Robocol. In here you will find slides, notebooks, and everything else used in the course. 
+Welcome to CVAI: An introductory course to artificial intelligence for Computer Vision. This repository is a collection of the materials used for the teaching of this course on The University of Andes with Robocol. In here you will find slides, notebooks, and everything else used in the course. 
 
 ## Contents: 
 
@@ -16,3 +16,21 @@ The problem of segmentation | cl4 | slides 4
 Advanced neural networks | cl5 | slides 5
 Work with the minimum: Transfer learning and Tiny ML | Cl6 | slides 6
 Further steps | No colab | Slides 7
+
+## FAQ
+
+* Are the contents of the course free?
+
+> Yes, everything on this course is openSource and you can use it on your own projects and courses, as long as the correspondent credits are given
+
+* Are there recordings of the sessions?
+
+> Ideally, yes but it depends on the quality of audio and video of the auditorium and subsequent storage of the recordings. If this is an available option you will find links to them on the repository
+
+*  I found an error and/or I would love to contribute
+
+> I am not an expert since I have learned this topics fairly recently, I will try to update this course with the most relevant state of the art technology, but any help is always welcome
+
+## Special Thanks
+
+This project have only been possible thanks to the University of the Andes, the student initative Robocol, and all the OpenSource community for resources and ideas.
