@@ -1,0 +1,24 @@
+What can we infer from these results?
+
+From the classification report we can further check that we had to recognize 7 different classes.
+
+>From the support metric (i.e. number of instances for a class) we can see that the dataset is heavily unbalanced
+>From the F-score (P*R/P+R) we can see that the predictive power of the model averages on 0.86; not bad for a SVM. But bad in comparisson with today's standards.
+>From the accuracy metric we can infer that the performance is better than a flip-coin (you are in most cases more influenced by the macro rather than the micro avg.)
+
+is it a good model?
+
+> it is a great model for an SVM point of view and has a good predictive power when compared with linear models. But for the predictive power of more recent technologies such as
+CNN or ViT's that has a predictive power of 0.99 for this task it is not a good model.
+
+Nevertheless, if the task most be performed with efficacy and low memory consumption instead of accuracy in mind, the SVM is the best option by far.
+
+How can we upgrade it?
+
+> More data! a dataset should never be this unbalanced
+> Try other techniques for feature extraction, border matrices, add a FCN to the model, make preprocessing. 
+
+What would we require to create a personalized model?
+
+> Based on the metrics, create a dataset of at least 25 pictures per person and add them to the dataset. With the help of libraries such as Pickle we can store the components of the 
+PCA and the weights of the SVM. Thus, we can storage the inner properties of the model and further improve them with the fit/predict paradigm.
