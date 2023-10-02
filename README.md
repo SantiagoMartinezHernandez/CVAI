@@ -7,15 +7,15 @@ Welcome to CVAI: An introductory course to artificial intelligence for Computer 
 
 ## Contents: 
 
-Topic              | Colab links   |  Slides links  | 
--------------------|----------------|---------------|
-Introduction to contemporaneous AI      | [colab link 1](https://github.com/SantiagoMartinezHernandez/CVAI/blob/main/Notebooks/introduction.ipynb) | Slides 1
-The problem of detection and classification       | Cl2 | Slides 2
-Principles of visual recognition | cl3 | Slides 3
-The problem of segmentation | cl4 | slides 4
-Advanced neural networks | cl5 | slides 5
-Work with the minimum: Transfer learning and Tiny ML | Cl6 | slides 6
-Further steps | No colab | Slides 7
+Topic              | Colab links   |  Slides links  | Recording 
+-------------------|----------------|---------------|------------
+Introduction to contemporaneous AI      | [colab link 1](https://github.com/SantiagoMartinezHernandez/CVAI/blob/main/Notebooks/introduction.ipynb) | Slides 1 | Rec 1
+The problem of detection and classification       | Cl2 | Slides 2 | Rec 2
+Principles of visual recognition | cl3 | Slides 3 | Rec 3
+The problem of segmentation | cl4 | slides 4 | Rec 4
+Advanced neural networks | cl5 | slides 5 | Rec 5 
+Work with the minimum: Transfer learning and Tiny ML | Cl6 | slides 6 | Rec 6
+Further steps | No colab | Slides 7 | Rec 7
 
 ## FAQ
 
