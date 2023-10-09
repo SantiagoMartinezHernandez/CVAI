@@ -9,7 +9,7 @@ Welcome to CVAI: An introductory course to artificial intelligence for Computer 
 
 Topic              | Colab links   |  Slides links  | Recording 
 -------------------|----------------|---------------|------------
-Introduction to contemporaneous AI      | [colab link 1](https://github.com/SantiagoMartinezHernandez/CVAI/blob/main/Notebooks/introduction.ipynb) | Slides 1 | Rec 1
+Introduction to contemporaneous AI      | [colab link 1](https://github.com/SantiagoMartinezHernandez/CVAI/blob/main/Notebooks/introduction.ipynb) | [Slides 1](https://github.com/SantiagoMartinezHernandez/CVAI/blob/main/Slides/S1.pptx) | Rec 1
 The problem of detection and classification       | Cl2 | Slides 2 | Rec 2
 Principles of visual recognition | cl3 | Slides 3 | Rec 3
 The problem of segmentation | cl4 | slides 4 | Rec 4
